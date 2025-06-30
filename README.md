@@ -96,11 +96,6 @@ Add Grad-CAM for interpretability
 
 Deploy using Flask or Streamlit
 
-Contact:
-Developed by: Your Name
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
-Email: your.email@example.com
 
 License:
 This project is licensed under the MIT License.
