@@ -77,7 +77,7 @@ Jupyter Notebook
 How to Run:
 
 Clone the repository:
-git clone https://github.com/your-username/skin-cancer-detection.git
+git clone https://github.com/MonikaBaskaran31/skin-cancer-detection.git
 cd skin-cancer-detection
 
 Install dependencies:
